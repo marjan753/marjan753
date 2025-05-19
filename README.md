@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**marjan753/marjan753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Marjan!
 
-Here are some ideas to get you started:
+🎓 I hold a Bachelor's degree in Computer Engineering  
+💼 I have over **6 years of experience** in mobile app development  
+📱 I specialize in building native Android apps with **Java** and cross-platform apps using **React Native**  
+🌱 I'm currently working with **Supabase** as my backend platform and improving my UI/UX design skills  
+📍 Based in Iran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Tools
+
+- **Languages**: Java, JavaScript
+- **Mobile Development**: Android Studio (Java), React Native
+- **Backend**: Supabase (PostgreSQL, REST API, Auth), PHP, MySQL
+- **Tools**: Git, Retrofit, Volley, ViewModel, LiveData, WorkManager
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [Store](https://github.com/marjan753/Store) | Java | Android shopping app |
+| [Reminder](https://github.com/marjan753/reminder) | Java | Simple Android task reminder |
+
+
+---
+
+
+
+## 📬 Contact
+
+- 📧 Email: marjanbagheri753@gmail.com  
+
+
+Let’s build high-quality mobile apps together! 🚀
